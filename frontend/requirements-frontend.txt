@@ -1,0 +1,12 @@
+#for installing vscode: $sudo snap install --classic code # or code-insiders
+
+1.Pair-bracket-colorizer:"match brackets pair in color"
+2.Git-ignore: "create .ignore file for project withn thousands of pre-made templates with just a command"
+3.import-Cost:" this FRontend ,optimizing bundle size"
+4.NPM-Intellisense:"autocomlete NPM modules for quick importing modules:Good for modules that are long difficult"
+5.Paste-and-Indent:"cmd+v"
+PasteNDIndent
+6.SSQL-Beautify:"Web dev,frontend and back end,DQL,autocompletes sql queries"
+
+7.Turbo-Console:"add console.log() for debbuging"
+8.-YAML-by-Red-Hat:""
